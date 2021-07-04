@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
-
+    text-align:center;
 }
 
 .profile {
@@ -102,4 +102,13 @@ p {
 
 
 
+}
+a{
+    text-decoration:none;
+}
+.article:hover {
+    color:aqua;
+}
+html{
+    scroll-behavior: smooth;
 }
